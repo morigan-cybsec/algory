@@ -4,6 +4,8 @@ Analista de dados com IA para pequenas e médias empresas. Você sobe uma planil
 
 **No ar:** [algory.osmio.tech](https://algory.osmio.tech) · **Criado por:** Morigan Ventrici e Matheus Ventrici
 
+> **Recebeu um código de teste?** O passo a passo está em [para quem vai testar](docs/testers.md): como ativar, o que testar e como avisar de um problema.
+
 ![Dashboard com o ritmo da meta e a semana](docs/imagens/dashboard.png)
 
 ## Por onde começar
@@ -16,7 +18,7 @@ Analista de dados com IA para pequenas e médias empresas. Você sobe uma planil
 | 4 | [Segurança da LLM](docs/seguranca.md) | Injeção de prompt, máscara de dados, o que testei e o que corrigi |
 | 5 | [Tecnologias](docs/tecnologias.md) | O que usei e por quê |
 | 6 | [Estudo de caso](docs/estudo-de-caso.md) | Como o projeto foi feito, o que aprendi e onde mais dá para aplicar |
-| 7 | [Para quem vai testar](docs/testers.md) | Onde colocar o código de teste e com quem falar |
+| 7 | [Para quem vai testar](docs/testers.md) | Como ativar o código, o que testar nos primeiros dez minutos e como abrir um chamado |
 | 8 | [Trechos de código](docs/trechos-de-codigo.md) | As decisões mais importantes, como estão em produção |
 | 9 | [Documentação técnica](docs/tecnico/) | Arquitetura, métricas e gabarito, conector de banco, memória da conversa, beta e chamados de ajuda, modo sem IA, como a árvore trabalha, cópia de segurança, calendário, CEP, códigos, integrações, o assistente em cada tela |
 
@@ -66,7 +68,7 @@ O que ainda não existe aparece na tela como **Em breve** e está listado em [in
 
 ## Valores e como apoiar
 
-A demo é bancada do meu bolso: servidor, domínio e cada chamada à IA.
+O Algory é um projeto de fundos próprios (self-funded). Servidor, domínio e cada chamada à IA são investimento interno da Osmio, sem investidor externo.
 
 | Plano | Preço (30 dias) | Tickets por mês |
 |---|---|---|
