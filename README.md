@@ -2,7 +2,7 @@
 
 Analista de dados com IA para pequenas e médias empresas. Você sobe uma planilha, o Algory lê, monta o dashboard e responde perguntas em português.
 
-**No ar:** [algory.osmio.tech](https://algory.osmio.tech) · **Autor:** Morigan Ventrici · **Ideia original:** Matheus Ventrici
+**No ar:** [algory.osmio.tech](https://algory.osmio.tech) · **Criado por:** Morigan Ventrici e Matheus Ventrici
 
 ![Dashboard com o ritmo da meta e a semana](docs/imagens/dashboard.png)
 
@@ -114,8 +114,10 @@ As duas demos são abertas e usam dados fictícios. Vale testar e comparar: o co
 
 ## Considerações e créditos
 
-- **Matheus Ventrici** teve a ideia inicial do Algory e me deu o ponto de partida. Depois acompanhou o projeto de perto e ajudou com os testes.
-- **Eu, Morigan Ventrici,** desenvolvi o projeto em uma semana, incluindo as principais funções: leitura de planilha, dashboard, perguntas, contas, pagamento e segurança.
+O Algory é um projeto de **Morigan Ventrici** e **Matheus Ventrici**. Criamos juntos, cada um numa frente:
+
+- **Matheus Ventrici** concebeu o produto: a ideia de um analista que lê a planilha de uma pequena empresa e responde o que o dono quer saber. Definiu o que ele tinha de resolver, acompanhou cada etapa e conduziu os testes.
+- **Morigan Ventrici** (eu, que escrevo esta documentação) desenvolveu: leitura de planilha, dashboard, perguntas, contas, pagamento e segurança.
 - **Desenvolvi com IA como ferramenta de trabalho.** Usei o Claude, da Anthropic, para escrever, revisar e testar código comigo. Não escondo isso: foi o ponto do estudo. O que aprendi sobre trabalhar assim, incluindo onde a IA errou e onde eu errei, está no [estudo de caso](docs/estudo-de-caso.md).
 
 ## Contato
